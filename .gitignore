@@ -1,0 +1,15 @@
+.project
+.buildpath
+.settings
+.DS_Store
+.classpath
+.launch
+*.log
+out
+Dockerfile
+/.externalToolBuilders
+/logs
+/target
+MANIFEST.MF
+*.iml
+.idea/
