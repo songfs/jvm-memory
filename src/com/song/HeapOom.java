@@ -19,7 +19,7 @@ import java.util.List;
 public class HeapOom {
     public static void main(String[] args) {
         // 此list实例会存放在堆内存中
-        List<byte[]> list = new ArrayList<>();
+        List<byte[]> list = new ArrayList<byte[]>();
         int i = 0;
         boolean flag = true;
         while (flag) {
